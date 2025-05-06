@@ -1,4 +1,4 @@
-# Learing Git an GitHub
+# Learning Git an GitHub
 
 ''' cout << "Hello World !"
 '''
